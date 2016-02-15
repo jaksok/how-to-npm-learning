@@ -19,7 +19,5 @@
     "url": "https://github.com/robooo/how-to-npm-learning/issues"
   },
   "homepage": "https://github.com/robooo/how-to-npm-learning#readme",
-  "dependencies": {
-    "@linclark/pkg": "^1.0.2"
-  }
+  "dependencies": {}
 }
