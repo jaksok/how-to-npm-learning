@@ -1,6 +1,6 @@
 {
   "name": "@roboo/how-to-npm",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "how-to-npm lesson",
   "main": "index.js",
   "scripts": {
