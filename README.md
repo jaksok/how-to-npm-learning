@@ -1,1 +1,1 @@
-learning how-to-npm
+Learning how-to-npm from nodeschool
